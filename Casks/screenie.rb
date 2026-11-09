@@ -1,6 +1,6 @@
 cask "screenie" do
-  version "0.1.0"
-  sha256 "77be0eb042cad59ec273f8130d3b8895ff98f1d884af3bf2b6035ac622c04ed2"
+  version "0.1.1"
+  sha256 "b7012c8f12341d06d6ff0d2f666f493643b85b5934080c748628ab731ce7cbb1"
 
   url "https://github.com/dustinmichels/screenie/releases/download/v#{version}/Screenie.dmg"
   name "Screenie"
