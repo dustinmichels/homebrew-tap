@@ -1,6 +1,6 @@
 cask "peanut-writer" do
-  version "0.1.2"
-  sha256 "40296f4472d5658a2edb2b1b2cb72c66434835e3fbcc1fb18459a3c1c7e7c86b"
+  version "0.1.3"
+  sha256 "62fdbebeac6efbccb27f24e74ad3e2f960ea1717652e0dddefe7b93d2764fb5e"
 
   url "https://github.com/dustinmichels/peanut-writer/releases/download/v#{version}/Peanut-Writer.dmg"
   name "Peanut Writer"
